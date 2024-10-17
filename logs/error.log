@@ -1,0 +1,11 @@
+2024-10-17 00:44:05 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 65 statisticalTOExcel - 导出数据到Excel：C:\studentsresponsestimesstatisticalsystem\data.xlsx错误，错误信息：C:\studentsresponsestimesstatisticalsystem\data.xlsx (系统找不到指定的路径。)
+2024-10-17 10:48:50 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\data.xlsx
+2024-10-17 10:48:50 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本 - 副本.txt
+2024-10-17 10:48:50 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本.txt
+2024-10-17 10:48:50 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 10:48:50 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\名单.xlsx
+2024-10-17 10:50:15 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\data.xlsx
+2024-10-17 10:50:15 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本 - 副本.txt
+2024-10-17 10:50:15 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本.txt
+2024-10-17 10:50:15 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 10:50:15 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\名单.xlsx

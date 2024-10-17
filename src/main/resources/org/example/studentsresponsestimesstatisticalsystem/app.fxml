@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            xmlns="http://javafx.com/javafx"
+            fx:controller="org.example.studentsresponsestimesstatisticalsystem.controller.AppController"
+            stylesheets="@static/styles.css"
+            styleClass="anchor-pane">
+    <left>
+        <ImageView fitHeight="600" fitWidth="460">
+            <Image url="@static/logo.png"/>
+        </ImageView>
+    </left>
+    <center>
+        <VBox>
+            <Button text="选择需要导入的学生文件（会清空当前系统中的学生信息，请确认已经将信息导出保存）"
+                    onAction="#selectStudentExcelFile"/>
+            <TextField fx:id="excelFile"/>
+            <Label fx:id="excelMassage">当前学生列表为空</Label>
+            <Button text="选择学生抢答次数文件" onAction="#selectResponsesTimesFile"/>
+            <TextField fx:id="txtFile"/>
+            <Label fx:id="txtMassage">当前选择的抢答文件为空</Label>
+            <Button text="选择导出文件夹" onAction="#selectFolder"/>
+            <TextField fx:id="folder"/>
+            <Label fx:id="folderMassage">当前未选择导出的文件夹，默认为“C:\studentsresponsestimesstatisticalsystem”</Label>
+            <TextField promptText="输入导出文件名（不需要后缀）" fx:id="exportFileName"/>
+            <Button text="导出" onAction="#exportStudentExcelFile"/>
+            <Label fx:id="exportMassage">当前未输入导出的文件名，默认为“data”，请确认目标文件夹中没有重名文件</Label>
+        </VBox>
+    </center>
+</BorderPane>

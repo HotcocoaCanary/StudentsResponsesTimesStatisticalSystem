@@ -1,0 +1,53 @@
+/* 基础样式 */
+.anchor-pane {
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 100%, #f4f4f4, #7CB49F);
+}
+
+/* 左侧图片视图样式 */
+ImageView {
+    -fx-border-color: #ddd;
+    -fx-border-width: 1px;
+}
+
+/* 右侧VBox样式 */
+VBox {
+    -fx-padding: 20;
+    -fx-spacing: 10;
+}
+
+/* 按钮样式 */
+Button {
+    -fx-font-size: 14px;
+    -fx-padding: 10 20;
+    -fx-background-color: #00939F;
+    -fx-text-fill: white;
+    -fx-background-radius: 5;
+}
+
+Button:hover {
+    -fx-background-color: #4cae4c;
+}
+
+/* 文本框样式 */
+TextField {
+    -fx-font-size: 14px;
+    -fx-padding: 10 10;
+    -fx-background-color: white;
+    -fx-border-color: #ddd;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5;
+}
+
+/* 标签样式 */
+Label {
+    -fx-font-size: 14px;
+    -fx-padding: 5 0;
+    -fx-text-fill: #666;
+}
+
+/* 提示文本样式 */
+TextField[promptText] {
+    -fx-font-size: 14px;
+    -fx-font-style: italic;
+    -fx-text-fill: #999;
+}

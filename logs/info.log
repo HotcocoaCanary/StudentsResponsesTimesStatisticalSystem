@@ -1,0 +1,91 @@
+2024-10-16 22:53:06 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-16 22:53:06 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：src/main/java/org/example/studentsresponsestimesstatisticalsystem/data/名单1.xlsx
+2024-10-16 22:53:06 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：src/main/java/org/example/studentsresponsestimesstatisticalsystem/data/点名.txt
+2024-10-16 22:53:06 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 62 statisticalTOExcel - 导出数据到Excel：src/main/java/org/example/studentsresponsestimesstatisticalsystem/data/名单1.xlsx
+2024-10-16 23:01:05 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-16 23:01:05 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：src/main/java/org/example/studentsresponsestimesstatisticalsystem/data/名单1.xlsx
+2024-10-16 23:01:05 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：src/main/java/org/example/studentsresponsestimesstatisticalsystem/data/点名.txt
+2024-10-16 23:01:05 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 63 statisticalTOExcel - 导出数据到Excel：mingdan1
+2024-10-16 23:02:07 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-16 23:02:07 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：src/main/java/org/example/studentsresponsestimesstatisticalsystem/data/名单1.xlsx
+2024-10-16 23:02:08 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：src/main/java/org/example/studentsresponsestimesstatisticalsystem/data/点名.txt
+2024-10-16 23:02:08 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 63 statisticalTOExcel - 导出数据到Excel：src/main/java/org/example/studentsresponsestimesstatisticalsystem/data/mingdan1.xlsx
+2024-10-16 23:29:01 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-16 23:30:32 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-16 23:32:47 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-16 23:38:09 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-16 23:45:45 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-16 23:46:08 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-16 23:46:33 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：E:\Code\Java\StudentsResponsesTimesStatisticalSystem\src\main\java\org\example\studentsresponsestimesstatisticalsystem\data\名单.xlsx
+2024-10-16 23:46:49 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：E:\Code\Java\StudentsResponsesTimesStatisticalSystem\src\main\java\org\example\studentsresponsestimesstatisticalsystem\data\点名.txt
+2024-10-16 23:47:01 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 63 statisticalTOExcel - 导出数据到Excel：E:\Code\Java\StudentsResponsesTimesStatisticalSystem\src\main\java\org\example\studentsresponsestimesstatisticalsystem\data/冰崩.xlsx
+2024-10-16 23:57:20 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:01:28 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:13:06 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:13:21 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:15:32 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:16:20 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:17:13 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:18:00 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:18:26 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:18:49 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:21:03 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:40:00 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:42:51 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:43:36 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：C:\Users\Hotco\Desktop\data\名单.xlsx
+2024-10-17 00:43:47 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 00:44:05 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 62 statisticalTOExcel - 导出数据到Excel：C:\studentsresponsestimesstatisticalsystem\data.xlsx
+2024-10-17 00:44:05 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 65 statisticalTOExcel - 导出数据到Excel：C:\studentsresponsestimesstatisticalsystem\data.xlsx错误，错误信息：C:\studentsresponsestimesstatisticalsystem\data.xlsx (系统找不到指定的路径。)
+2024-10-17 00:57:43 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 00:58:09 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：C:\Users\Hotco\Desktop\data\名单.xlsx
+2024-10-17 00:58:20 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 57 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 00:58:29 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 70 statisticalTOExcel - 导出数据到Excel：C:\Users\Hotco\Desktop\data\data.xlsx
+2024-10-17 01:01:22 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 01:03:27 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 01:04:04 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 01:05:27 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 01:06:40 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 10:35:20 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 10:36:03 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：C:\Users\Hotco\Desktop\data\名单.xlsx
+2024-10-17 10:36:18 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 57 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本 - 副本.txt
+2024-10-17 10:36:18 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 57 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本.txt
+2024-10-17 10:36:18 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 57 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 10:36:39 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 70 statisticalTOExcel - 导出数据到Excel：C:\Users\Hotco\Desktop\data\data.xlsx
+2024-10-17 10:44:42 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 10:44:49 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：C:\Users\Hotco\Desktop\data\名单.xlsx
+2024-10-17 10:44:55 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 57 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本 - 副本.txt
+2024-10-17 10:44:55 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 57 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本.txt
+2024-10-17 10:44:55 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 57 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 10:47:21 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 10:47:33 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：C:\Users\Hotco\Desktop\data\名单.xlsx
+2024-10-17 10:47:39 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 57 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本 - 副本.txt
+2024-10-17 10:47:39 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 57 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本.txt
+2024-10-17 10:47:39 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 57 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 10:48:43 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 10:48:50 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\data.xlsx
+2024-10-17 10:48:50 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本 - 副本.txt
+2024-10-17 10:48:50 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本.txt
+2024-10-17 10:48:50 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 10:48:50 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\名单.xlsx
+2024-10-17 10:50:08 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 10:50:15 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\data.xlsx
+2024-10-17 10:50:15 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本 - 副本.txt
+2024-10-17 10:50:15 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本.txt
+2024-10-17 10:50:15 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 10:50:15 ERROR org.example.studentsresponsestimesstatisticalsystem.service.FileService 54 updateStudentResponsesTimes - 在当前学生数据为空时调用更新学生抢答次数方法，文件路径：C:\Users\Hotco\Desktop\data\名单.xlsx
+2024-10-17 10:55:09 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 10:55:18 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 10:55:38 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 10:55:47 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 10:58:29 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 10:58:35 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：C:\Users\Hotco\Desktop\data\名单.xlsx
+2024-10-17 10:58:42 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 59 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本 - 副本.txt
+2024-10-17 10:58:42 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 59 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本.txt
+2024-10-17 10:58:42 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 59 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 10:58:49 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 72 statisticalTOExcel - 导出数据到Excel：C:\Users\Hotco\Desktop\data\data.xlsx
+2024-10-17 11:07:38 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 32 getFileService - 获取文件服务器对象
+2024-10-17 11:07:55 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 41 readStudentExcelFile - 清空当前学生列表，读取新列表：C:\Users\Hotco\Desktop\data\名单.xlsx
+2024-10-17 11:08:03 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 59 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名.txt
+2024-10-17 11:08:13 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 72 statisticalTOExcel - 导出数据到Excel：C:\Users\Hotco\Desktop\data\data.xlsx
+2024-10-17 11:08:31 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 59 updateStudentResponsesTimes - 更新学生抢答次数，文件路径：C:\Users\Hotco\Desktop\data\点名 - 副本.txt
+2024-10-17 11:08:35 INFO  org.example.studentsresponsestimesstatisticalsystem.service.FileService 72 statisticalTOExcel - 导出数据到Excel：C:\Users\Hotco\Desktop\data\data.xlsx
